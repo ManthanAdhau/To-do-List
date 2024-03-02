@@ -8,7 +8,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(135deg, rgb(0, 122, 122), rgb(2, 2, 133));
+  background: linear-gradient(135deg, rgb(10, 130, 100), rgb(100, 1, 150));
   border: 1px solid;
   box-sizing: border-box;
   box-shadow: 0 0 10px;
